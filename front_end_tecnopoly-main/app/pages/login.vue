@@ -210,7 +210,7 @@ async function handleLogin() {
   background:
     linear-gradient(180deg, rgba(5, 12, 26, 0.1), rgba(5, 12, 26, 0.82)),
     url('/login-hero.jpg.png') center top / cover no-repeat;
-}
+}chatgpt
 
 .hero-overlay {
   position: absolute;
