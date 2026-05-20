@@ -197,7 +197,7 @@ async function handleLogin() {
   background: rgba(17, 24, 39, 0.85);
   border: 1px solid rgba(0, 229, 255, 0.15);
   border-radius: 20px;
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(21px);
   box-shadow:
     0 0 0 1px rgba(0, 229, 255, 0.05),
     0 25px 50px rgba(0, 0, 0, 0.5),
